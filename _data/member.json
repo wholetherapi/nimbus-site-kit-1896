@@ -1,89 +1,9 @@
 {
-  "schema_version": 2,
-  "member_id": "NLAB-0421",
-  "display_name": "Mira Adeyemi",
-  "role": "phd-candidate",
-  "visibility": "public",
-  "affiliations": [
-    {
-      "name": "Nimbus Interaction Lab",
-      "unit": "Vellmar Institute of Technology"
-    }
-  ],
-  "previous_institutions": [
-    "Ashcombe University"
-  ],
-  "topics": [
-    "multimodal input for motor-impaired users",
-    "haptic feedback design for mobile interfaces",
-    "inclusive voice-command systems"
-  ],
-  "positions": [
-    {
-      "title": "Graduate Research Assistant",
-      "organization": "Nimbus Interaction Lab",
-      "start": "2022-09",
-      "end": "present",
-      "advisor": "Dr. Solveig Brandt"
-    },
-    {
-      "title": "UX Research Intern",
-      "organization": "Brightline Accessibility Studio",
-      "start": "2021-06",
-      "end": "2021-08",
-      "advisor": "Petra Lindqvist"
-    },
-    {
-      "title": "Teaching Assistant",
-      "organization": "Ashcombe University",
-      "start": "2019-09",
-      "end": "2021-05",
-      "advisor": "Dr. Marcus Feld"
-    }
-  ],
-  "works": [
-    {
-      "title": "Grip-and-Go: One-Handed Text Entry for Users with Limited Dexterity",
-      "venue": "ASSETS 2024",
-      "year": 2024,
-      "authorship": "first-author"
-    },
-    {
-      "title": "Haptic Cues for Nonvisual Menu Navigation on Smartphones",
-      "venue": "CHI 2023",
-      "year": 2023,
-      "authorship": "co-author"
-    },
-    {
-      "title": "Voice Command Repair Strategies in Aphasia",
-      "venue": "INTERSPEECH 2023",
-      "year": 2023,
-      "authorship": "second-author"
-    },
-    {
-      "title": "A Toolkit for Rapid Haptic Prototyping",
-      "venue": "UIST 2022",
-      "year": 2022,
-      "authorship": "co-author"
-    },
-    {
-      "title": "Evaluating Switch Access Latency in Mobile Games",
-      "venue": "ASSETS 2021",
-      "year": 2021,
-      "authorship": "first-author"
-    },
-    {
-      "title": "Design Patterns for Inclusive Onboarding",
-      "venue": "CHI Extended Abstracts 2020",
-      "year": 2020,
-      "authorship": "co-author"
-    }
-  ],
-  "contact": {
-    "email": "mira.adeyemi@nilab.example.org",
-    "handles": {
-      "github": "mira-adeyemi",
-      "orcid": "0000-0001-5527-8842"
-    }
-  }
+  "schema_version": 1,
+  "member_id": "NLAB-0001",
+  "display_name": "Sample Member",
+  "role": "phd-student",
+  "affiliation": "Sample Lab",
+  "interests": ["placeholder"],
+  "contact_email": "sample@example.org"
 }
