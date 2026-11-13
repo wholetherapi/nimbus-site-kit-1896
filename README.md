@@ -22,12 +22,12 @@ assets/style.css      Shared stylesheet
 ## Member data
 
 `_data/member.json` feeds the lab directory ingest. The authoritative schema,
-a blank entry and the validation tool live in the lab directory repository
-(`https://github.com/wholetherapi/nimbus-member-directory-1896`). The sample entry
-shipped in this kit predates schema v2 and must be replaced with a current one.
+a blank entry and the validation tool live in the `directory/` folder of this
+repository. The sample entry shipped at `_data/member.json` predates schema v2
+and must be replaced with a current one.
 
-Copy an existing entry from the directory repository, fill in the member's
-facts, and run the directory validator before publishing.
+Copy an existing entry from `directory/members/`, fill in the member's facts,
+and run `directory/tools/validate_member.py` before publishing.
 
 ## Front page requirements
 

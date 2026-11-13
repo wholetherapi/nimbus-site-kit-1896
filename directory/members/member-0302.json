@@ -1,0 +1,23 @@
+{
+  "schema_version": 2,
+  "member_id": "NLAB-0302",
+  "display_name": "Priya Raman",
+  "role": "visiting",
+  "visibility": "public",
+  "affiliations": [
+    {"name": "Nimbus Interaction Lab", "unit": "Vellmar Institute of Technology"},
+    {"name": "Kestrel College of Design", "unit": "Department of Interaction Design"}
+  ],
+  "previous_institutions": [],
+  "topics": ["sound design", "auditory displays", "spatial audio"],
+  "positions": [
+    {"title": "Visiting Researcher", "organization": "Nimbus Interaction Lab", "start": "2024-01", "end": "present", "advisor": "Dr. Solveig Brandt"}
+  ],
+  "works": [
+    {"title": "Spatial Audio Alerts for Monitoring Tasks", "venue": "ICAD 2022", "year": 2022, "authorship": "co-author"}
+  ],
+  "contact": {
+    "email": "priya.raman@kestreldesign.example.org",
+    "handles": {"github": "praman", "orcid": null}
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "member_id": "NLAB-0256",
+  "display_name": "Anais Fournier",
+  "role": "faculty",
+  "visibility": "public",
+  "affiliations": [
+    {"name": "Nimbus Interaction Lab", "unit": "Vellmar Institute of Technology"}
+  ],
+  "previous_institutions": ["Ashcombe University"],
+  "topics": ["assistive technology", "game accessibility", "participatory design"],
+  "positions": [
+    {"title": "Lab Director", "organization": "Nimbus Interaction Lab", "start": "2018-09", "end": "present", "advisor": null}
+  ],
+  "works": [
+    {"title": "Co-Designing Accessible Games with Disabled Players", "venue": "CHI 2023", "year": 2023, "authorship": "senior-author"}
+  ],
+  "contact": {
+    "email": "anais.fournier@nilab.example.org",
+    "handles": {"github": "afournier", "orcid": "0000-0001-8823-0092"}
+  }
+}

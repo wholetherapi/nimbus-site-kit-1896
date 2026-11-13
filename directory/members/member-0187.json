@@ -1,0 +1,24 @@
+{
+  "schema_version": 2,
+  "member_id": "NLAB-0187",
+  "display_name": "Tomas Lindholm",
+  "role": "postdoc",
+  "visibility": "public",
+  "affiliations": [
+    {"name": "Nimbus Interaction Lab", "unit": "Vellmar Institute of Technology"}
+  ],
+  "previous_institutions": ["Umea University"],
+  "topics": ["tactile rendering", "wearable haptics", "sensory substitution"],
+  "positions": [
+    {"title": "Postdoctoral Researcher", "organization": "Nimbus Interaction Lab", "start": "2023-04", "end": "present", "advisor": "Dr. Solveig Brandt"},
+    {"title": "Lecturer", "organization": "Umea University", "start": "2021-01", "end": "2023-03", "advisor": null}
+  ],
+  "works": [
+    {"title": "Tactile Rendering of Remote Surfaces", "venue": "World Haptics 2024", "year": 2024, "authorship": "first-author"},
+    {"title": "Wearable Haptic Cues for Navigation", "venue": "IEEE VR 2022", "year": 2022, "authorship": "second-author"}
+  ],
+  "contact": {
+    "email": "tomas.lindholm@nilab.example.org",
+    "handles": {"github": "tlindholm", "orcid": "0000-0002-1180-4410"}
+  }
+}

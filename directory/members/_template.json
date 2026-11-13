@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "member_id": "NLAB-0000",
+  "display_name": "Given Family",
+  "role": "phd-candidate",
+  "visibility": "public",
+  "affiliations": [
+    {"name": "Lab Name", "unit": "Department or institute"}
+  ],
+  "previous_institutions": ["Previous Institution"],
+  "topics": ["Topic one", "Topic two", "Topic three"],
+  "positions": [
+    {
+      "title": "Role title",
+      "organization": "Organisation",
+      "start": "2020-01",
+      "end": "present",
+      "advisor": "Dr. Advisor Name"
+    }
+  ],
+  "works": [
+    {
+      "title": "Work title",
+      "venue": "Venue 2020",
+      "year": 2020,
+      "authorship": "first-author"
+    }
+  ],
+  "contact": {
+    "email": "given.family@example.org",
+    "handles": {"github": "handle", "orcid": "0000-0000-0000-0000"}
+  }
+}
