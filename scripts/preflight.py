@@ -87,7 +87,7 @@ def main():
     except ValueError as exc:
         fail("_data/member.json is not valid JSON: " + str(exc))
     if member.get("schema_version") != 2:
-        fail("_data/member.json is not schema v2 (see the directory repository)")
+        fail("_data/member.json is not schema v2 (see the directory/ folder)")
     for key in REQUIRED_MEMBER_KEYS:
         if key not in member:
             fail("_data/member.json is missing key '" + key + "'")

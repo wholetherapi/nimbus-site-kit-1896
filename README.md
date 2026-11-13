@@ -1,8 +1,8 @@
 # Nimbus Interaction Lab — Member Site Kit
 
 A minimal static-site starter used by lab members to publish a one-page
-academic profile. To start a profile, copy this repository into a new
-repository and edit three files:
+academic profile. To start a profile, cut a new branch from this repository
+and edit three files on that branch:
 
 - `index.md` — the front page (Markdown with YAML front matter)
 - `_config/site.yaml` — identity block and display switches
