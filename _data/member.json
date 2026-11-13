@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "member_id": "NLAB-0001",
+  "display_name": "Sample Member",
+  "role": "phd-student",
+  "affiliation": "Sample Lab",
+  "interests": ["placeholder"],
+  "contact_email": "sample@example.org"
+}
