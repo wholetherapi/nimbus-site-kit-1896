@@ -44,6 +44,9 @@ Every fact on the page must be reproduced exactly as it appears in the member
 record: no re-wording, no re-punctuation, no abbreviation expansion, no
 re-ordering.
 
+`examples/halvorsen-archive/` holds a completed profile published with this
+kit; follow its conventions when in doubt.
+
 ## Display switches
 
 `_config/site.yaml`:
